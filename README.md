@@ -162,7 +162,6 @@ jupyter notebook Проект_Классификация_музыкальных_
 | `matplotlib` / `seaborn` | latest | Визуализация |
 | `Pillow` | latest | Загрузка изображений |
 
----
 
 ## Ключевые выводы
 
